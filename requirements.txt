@@ -5,3 +5,4 @@ numpy==1.19.5
 matplotlib==3.3.3
 imblearn==0.0
 plotly==4.14.3
+xlrd==1.2.0
